@@ -1,3 +1,7 @@
+#cnr.cn
+127.0.0.1 adsame1.cnr.cn
+127.0.0.1 d1.cnr.cn
+127.0.0.1 ggdata1.cnr.cn
 #http://live.fjtv.net/
 127.0.0.1 adv.fjtv.net
 #http://live.jstv.com/
@@ -32,12 +36,14 @@
 127.0.0.1 duration.logger.baofeng.com
 127.0.0.1 houyi.logger.baofeng.com
 127.0.0.1 storm.logger.baofeng.com
+127.0.0.1 subo.logger.baofeng.com
 127.0.0.1 tips.logger.baofeng.com
 127.0.0.1 tree.logger.baofeng.com
 127.0.0.1 sclog.moviebox.baofeng.com
 127.0.0.1 timelog.moviebox.baofeng.com
 127.0.0.1 vvlog.moviebox.baofeng.com
 127.0.0.1 config.baofeng.net
+127.0.0.1 iflow.minfo.baofeng.net
 127.0.0.1 jfm4.pop.baofeng.net
 127.0.0.1 listlog.baofeng.net
 127.0.0.1 nclog.mars.baofeng.net
@@ -89,6 +95,8 @@
 127.0.0.1 www.zamplus.com
 127.0.0.1 cm.fancyapi.com
 #http://www.mgtv.com/
+127.0.0.1 m2.da.mgtv.com
+127.0.0.1 mobile2.da.mgtv.com
 127.0.0.1 as.mgtv.com
 127.0.0.1 cdn.cmop.mgtv.com
 127.0.0.1 cmop.mgtv.com

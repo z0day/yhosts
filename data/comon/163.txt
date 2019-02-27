@@ -1,6 +1,15 @@
+#126
+127.0.0.1 img1.126.net
+127.0.0.1 img2.126.net
+127.0.0.1 img3.126.net
+127.0.0.1 pimg1.126.net
+127.0.0.1 webstat.ws.126.net
 #163-news
+127.0.0.1 analytics.163.com
 127.0.0.1 e-p4p.163.com
 127.0.0.1 nex.163.com
+127.0.0.1 popme.163.com
+127.0.0.1 temp.163.com
 #163-music
 127.0.0.1 iadmat.nosdn.127.net
 127.0.0.1 yt-adp.nosdn.127.net

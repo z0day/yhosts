@@ -13,9 +13,6 @@
 127.0.0.1 beacon.krxd.net
 127.0.0.1 cdn.krxd.net
 @site-foregin/sns
-#facebook
-#linkedin.com
-127.0.0.1 dc.ads.linkedin.com
 #wp.com
 127.0.0.1 stats.wp.com
 @site-foregin/tools
@@ -40,10 +37,13 @@
 127.0.0.1 s1.adform.net
 127.0.0.1 track.adform.net
 127.0.0.1 www.tradeadexchange.com
+#downloadly.ir
+127.0.0.1 static.addtoany.com
+127.0.0.1 pl14369502.puserving.com
+127.0.0.1 ie8eamus.com
 @site-foregin/union
 #aol-cn.engadget.com
 127.0.0.1 adinfo.aol.com
-127.0.0.1 b.aol.com
 127.0.0.1 cdn.komentary.aol.com
 127.0.0.1 cdn.at.atwola.com
 127.0.0.1 cdn.atwola.com

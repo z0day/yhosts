@@ -21,8 +21,6 @@
 127.0.0.1 app-tj.adinall.com
 127.0.0.1 cdn.adinall.com
 127.0.0.1 pmp.adinall.com
-#adjust.com
-127.0.0.1 app.adjust.com
 #adk2.co
 127.0.0.1 adbma.adk2.co
 127.0.0.1 adplexmedia.adk2.co
@@ -42,13 +40,14 @@
 127.0.0.1 inline.admedia.com
 127.0.0.1 m.admedia.com
 #adnxs.com
-127.0.0.1 acdn.adnxs.com
 127.0.0.1 admeld.adnxs.com
+127.0.0.1 adnxs.com
 127.0.0.1 cdn.adnxs.com
 127.0.0.1 fim.adnxs.com
 127.0.0.1 g.adnxs.com
 127.0.0.1 gam.adnxs.com
 127.0.0.1 ib.adnxs.com
+127.0.0.1 m.adnxs.com
 127.0.0.1 photobucket.adnxs.com
 127.0.0.1 secure-sin.adnxs.com
 127.0.0.1 secure.adnxs.com
@@ -234,7 +233,6 @@
 127.0.0.1 media.admob.com
 127.0.0.1 adfarm.mediaplex.com
 127.0.0.1 secure.img-cdn.mediaplex.com
-127.0.0.1 ssl.google-analytics.com
 #gosquared.com
 127.0.0.1 data.gosquared.com
 127.0.0.1 data2.gosquared.com
@@ -348,16 +346,7 @@
 127.0.0.1 munchkin.marketo.net
 127.0.0.1 pages2.marketo.com
 #mdotm.com
-127.0.0.1 cdn.mdotm.com
 #mgid.com
-127.0.0.1 aa-gb.mgid.com
-127.0.0.1 aa.goodsblock.mgid.com
-127.0.0.1 ab-gb.mgid.com
-127.0.0.1 ab.goodsblock.mgid.com
-127.0.0.1 ac-gb.mgid.com
-127.0.0.1 ad-gb.mgid.com
-127.0.0.1 ae-gb.mgid.com
-127.0.0.1 aj-gb.mgid.com
 127.0.0.1 imgg.mgid.com
 127.0.0.1 jsc.mgid.com
 127.0.0.1 mgid.com
@@ -378,17 +367,12 @@
 127.0.0.1 ads.mopub.com
 127.0.0.1 analytics.mopub.com
 127.0.0.1 www.mopub.com
-#msn
-127.0.0.1 ads1.msads.net
-127.0.0.1 mobileads.msn.com
 #mydas.mobi
 127.0.0.1 ads.mp.mydas.mobi
 127.0.0.1 ads.mydas.mobi
 127.0.0.1 androidsdk.ads.mp.mydas.mobi
 127.0.0.1 cvt.mydas.mobi
 #netshelter.net
-127.0.0.1 ad1.netshelter.net
-127.0.0.1 track.netshelter.net
 #newrelic.com
 127.0.0.1 newrelic.com
 #pixelsad
@@ -419,8 +403,6 @@
 127.0.0.1 sb.scorecardresearch.com
 127.0.0.1 udm.scorecardresearch.com
 #scrippsnetworks
-127.0.0.1 aam.adsremote.scrippsnetworks.com
-127.0.0.1 adsremote.scrippsnetworks.com
 #segment.com
 127.0.0.1 cdn-settings.segment.com
 127.0.0.1 mobile-service.segment.com
@@ -461,6 +443,13 @@
 127.0.0.1 px.steelhousemedia.com
 127.0.0.1 rto.steelhousemedia.com
 #taboola
+127.0.0.1 15.taboola.com
+127.0.0.1 cdn.taboola.com
+127.0.0.1 images.taboola.com
+127.0.0.1 imprhkmp.taboola.com
+127.0.0.1 match.taboola.com
+127.0.0.1 trc.taboola.com
+127.0.0.1 vidstat.taboola.com
 127.0.0.1 cdn.taboolasyndication.com
 #tapjoy
 127.0.0.1 tapjoy.cn
@@ -521,3 +510,10 @@
 #zedo
 127.0.0.1 d8.zedo.com
 127.0.0.1 z1.zedo.com
+#ot
+127.0.0.1 eus.rubiconproject.com
+127.0.0.1 i.liadm.com
+127.0.0.1 i.ssix.io
+127.0.0.1 load77.exelator.com
+127.0.0.1 stags.bluekai.com
+127.0.0.1 sync.crwdcntrl.net

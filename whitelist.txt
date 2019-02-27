@@ -1,13 +1,72 @@
+address=/.bcebos.com/0.0.0.0 baidu maps 
 http://cdn.staticfile.org/jquery/1.7.2/jquery.min.js
-
+127.0.0.1 acstatic-dun.126.net 安全中心无法登陆
 127.0.0.1 b.bdstatic.com  贴吧帖子缩略图
+127.0.0.1 static.ws.126.net
+code.createjs.com 这是一个 js cdn 库，不应该在黑名单
+current.sina.com.cn 这个网址 禁了没法看新浪财经的股票查询历史
+127.0.0.1 woocall.sina.com.cn 屏蔽了没法看新浪财经的股票信息
+127.0.0.1 vd.l.qq.com 腾讯视频vip，旧的vip电视剧无法播放
+127.0.0.1 union-click.jd.com
+127.0.0.1 ccc-x.jd.com
+https://wifiapi02.51y5.net/wifiapi/rd.do?a=&v=&c=&d=&u=&ssid=&bssid=&f=wnk_apply_open&b=8__wifihome__wifihome__pc__unknow__&_t=1546925013958
+http://mastersim.wifi.com/h5/apply_4.html?utm_source=wifihome&utm_campaign=pc&v=12&channel=02
 
+
+g.163.com
+gma.alicdn.com 这个禁用了淘宝特卖网加载不出图片
+127.0.0.1 app.adjust.com 微软安全相关通知等
+www.3533.com 网页图片被误杀：p.abcache.com
+http://acs4baichuan.m.taobao.com/gw-open/com.alibaba.havana.login.applink.generatetopapplinktoken/1.0/
+#127.0.0.1 acs4baichuan.m.taobao.com pp助手淘宝登录授权拉起
+127.0.0.1 adashbc.m.taobao.com 
+127.0.0.1 adashbc.ut.taobao.com
+127.0.0.1 adash.m.taobao.com
+127.0.0.1 adashx.m.taobao.com
+127.0.0.1 adashxgc.ut.taobao.com
+127.0.0.1 c-adash.m.taobao.com
+127.0.0.1 m-adash.m.taobao.com
+127.0.0.1 nbsdk-baichuan.taobao.com
+127.0.0.1 agoodm.m.taobao.com
+127.0.0.1 apoll.m.taobao.com
+127.0.0.1 unitacs.m.taobao.com
+127.0.0.1 w.m.taobao.com
+127.0.0.1 api.waptest.taobao.com
+
+paimgcdn.baidu.com
+map-mobile-lbsapp.cdn.bcebos.com
+http://lbsnavi.cdn.bcebos.com:443
+
+127.0.0.1 api.xk.miui.com
+
+127.0.0.1 corpext.msitadfs.glbdns2.microsoft.com
+127.0.0.1 corp.sts.microsoft.com
+127.0.0.1 crl.microsoft.com
+
+127.0.0.1 choice.microsoft.com
+127.0.0.1 i1.services.social.microsoft.com
+127.0.0.1 redir.metaservices.microsoft.com
+127.0.0.1 settings-sandbox.data.microsoft.com
+127.0.0.1 vortex-sandbox.data.microsoft.com
+127.0.0.1 vortex-win.data.microsoft.com
+127.0.0.1 vortex.data.microsoft.com
+127.0.0.1 statsfe1.ws.microsoft.com
+127.0.0.1 statsfe2.ws.microsoft.com
+
+#netease
+127.0.0.1 img4.cache.netease.com
+127.0.0.1 img6.cache.netease.com
+127.0.0.1 img5.cache.netease.com
 image.ibb.co
+
+treezip.baofeng.net
+treexml.baofeng.net
+config5.update.baofeng.com
 https://de.imgbb.com to use them in an forum.
 imgbb is a free service for uploading and sharing pictures.
 https://github.com/notracking/hosts-blocklists/issues/75
 
-
+127.0.0.1 lib.baomitu.com
 只要有这一条，127.0.0.1 union.video.qq.com，腾讯视频网页下一集按钮灰色，也不能选集播放
 127.0.0.1 web-disp.titan.mgtv.com
 127.0.0.1 web-disp1.titan.mgtv.com
